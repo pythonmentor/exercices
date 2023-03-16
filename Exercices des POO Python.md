@@ -1,16 +1,3 @@
-
-New chat
-
-Model: GPT-4
-
-Thierry Chappuis
-Créer un exercice de poo en Python avec une classe représentant une tâche et une liste de tâches appartenant à un utilisateur
-
-
-2 / 2
-
-Voici un exemple d'exercice de programmation orientée objet (POO) en Python pour gérer une liste de tâches appartenant à un utilisateur. Cet exercice comprend deux classes : Tache pour représenter une tâche individuelle et Utilisateur pour représenter un utilisateur ayant une liste de tâches.
-
 # Exercice 1:
 
 Créez une classe Tache avec les attributs et méthodes suivantes :
